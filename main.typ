@@ -3,7 +3,7 @@
 #set document(
   title: [This is the title],
   author: {
-    "Tan Phat Nguyen"
+    "Max Mustermann"
   },
 )
 
